@@ -1,0 +1,62 @@
+html {
+    margin-top: 5px;
+    line-height: 50% margin-bottom 5px;
+ 
+}
+
+@page {
+    margin-right: 1cm;
+    margin-left: 1cm;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+header {
+    text-align: center;
+}
+
+hr {
+    width: 100%;
+    size: 40;
+    align-items: center;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+ul,
+#devTools {
+    line-height: 125%;
+}
+
+#name {
+    font-size: 30px;
+}
+
+#education,
+#techSkills,
+#expAct,
+#projects,
+#extracurriculars {
+    line-height: 5%;
+}
+
+#name {
+    line-height: 50%;
+}
